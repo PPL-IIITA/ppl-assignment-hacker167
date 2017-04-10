@@ -1,0 +1,44 @@
+10/04/2017 07:47:47 AM root   INFO: girl_4committed with boy_66
+10/04/2017 07:47:47 AM root   INFO: girl_6committed with boy_447
+10/04/2017 07:47:47 AM root   INFO: girl_7committed with boy_213
+10/04/2017 07:47:47 AM root   INFO: girl_8committed with boy_357
+10/04/2017 07:47:47 AM root   INFO: girl_9committed with boy_210
+10/04/2017 07:47:47 AM root   INFO: girl_10committed with boy_393
+10/04/2017 07:47:47 AM root   INFO: girl_11committed with boy_164
+10/04/2017 07:47:47 AM root   INFO: girl_13committed with boy_341
+10/04/2017 07:47:47 AM root   INFO: girl_17committed with boy_179
+10/04/2017 07:47:47 AM root   INFO: girl_18committed with boy_84
+10/04/2017 07:47:47 AM root   INFO: girl_20committed with boy_170
+10/04/2017 07:47:47 AM root   INFO: girl_21committed with boy_400
+10/04/2017 07:47:47 AM root   INFO: girl_22committed with boy_498
+10/04/2017 07:47:47 AM root   INFO: girl_23committed with boy_320
+10/04/2017 07:47:47 AM root   INFO: girl_26committed with boy_262
+10/04/2017 07:47:47 AM root   INFO: girl_27committed with boy_432
+10/04/2017 07:47:47 AM root   INFO: girl_28committed with boy_342
+10/04/2017 07:47:47 AM root   INFO: girl_29committed with boy_166
+10/04/2017 07:47:47 AM root   INFO: girl_32committed with boy_371
+10/04/2017 07:47:47 AM root   INFO: girl_33committed with boy_31
+10/04/2017 07:47:47 AM root   INFO: girl_34committed with boy_39
+10/04/2017 07:47:47 AM root   INFO: girl_36committed with boy_143
+10/04/2017 07:47:47 AM root   INFO: girl_38committed with boy_496
+10/04/2017 07:47:47 AM root   INFO: girl_40committed with boy_475
+10/04/2017 07:47:47 AM root   INFO: girl_41committed with boy_451
+10/04/2017 07:47:47 AM root   INFO: girl_42committed with boy_491
+10/04/2017 07:47:47 AM root   INFO: girl_43committed with boy_345
+10/04/2017 07:47:47 AM root   INFO: girl_44committed with boy_377
+10/04/2017 07:47:47 AM root   INFO: girl_45committed with boy_257
+10/04/2017 07:47:47 AM root   INFO: girl_46committed with boy_103
+10/04/2017 07:47:47 AM root   INFO: girl_47committed with boy_372
+10/04/2017 07:47:47 AM root   INFO: girl_48committed with boy_252
+10/04/2017 07:47:47 AM root   INFO: boy_447  gave  girl_6 a  Gift:| Gift_7| of price =Rs. 1697\-.
+10/04/2017 07:47:47 AM root   INFO: boy_213  gave  girl_7 a  Gift:| Gift_7| of price =Rs. 1697\-.
+10/04/2017 07:47:47 AM root   INFO: boy_341  gave  girl_13 a  Gift:| Gift_28| of price =Rs. 1309\-.
+10/04/2017 07:47:47 AM root   INFO: boy_179  gave  girl_17 a  Gift:| Gift_10| of price =Rs. 2588\-.
+10/04/2017 07:47:47 AM root   INFO: boy_320  gave  girl_23 a  Gift:| Gift_28| of price =Rs. 1309\-.
+10/04/2017 07:47:47 AM root   INFO: boy_432  gave  girl_27 a  Gift:| Gift_7| of price =Rs. 1697\-.
+10/04/2017 07:47:47 AM root   INFO: boy_342  gave  girl_28 a  Gift:| Gift_34| of price =Rs. 208\-.
+10/04/2017 07:47:47 AM root   INFO: boy_166  gave  girl_29 a  Gift:| Gift_10| of price =Rs. 2588\-.
+10/04/2017 07:47:47 AM root   INFO: boy_31  gave  girl_33 a  Gift:| Gift_10| of price =Rs. 2588\-.
+10/04/2017 07:47:47 AM root   INFO: boy_491  gave  girl_42 a  Gift:| Gift_28| of price =Rs. 1309\-.
+10/04/2017 07:47:47 AM root   INFO: boy_103  gave  girl_46 a  Gift:| Gift_28| of price =Rs. 1309\-.
+10/04/2017 07:47:47 AM root   INFO: boy_372  gave  girl_47 a  Gift:| Gift_28| of price =Rs. 1309\-.
