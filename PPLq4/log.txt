@@ -1,0 +1,570 @@
+10/04/2017 07:37:06 AM root   INFO: girl_1committed with boy_16
+10/04/2017 07:37:06 AM root   INFO: girl_2committed with boy_0
+10/04/2017 07:37:06 AM root   INFO: girl_4committed with boy_5
+10/04/2017 07:37:06 AM root   INFO: girl_5committed with boy_6
+10/04/2017 07:37:06 AM root   INFO: girl_7committed with boy_3
+10/04/2017 07:37:06 AM root   INFO: girl_8committed with boy_7
+10/04/2017 07:37:06 AM root   INFO: girl_9committed with boy_9
+10/04/2017 07:37:06 AM root   INFO: girl_10committed with boy_11
+10/04/2017 07:37:06 AM root   INFO: girl_12committed with boy_12
+10/04/2017 07:37:06 AM root   INFO: girl_16committed with boy_13
+10/04/2017 07:37:06 AM root   INFO: girl_17committed with boy_17
+10/04/2017 07:37:06 AM root   INFO: girl_18committed with boy_19
+10/04/2017 07:37:06 AM root   INFO: girl_21committed with boy_25
+10/04/2017 07:37:06 AM root   INFO: girl_22committed with boy_15
+10/04/2017 07:37:06 AM root   INFO: girl_24committed with boy_28
+10/04/2017 07:37:06 AM root   INFO: girl_25committed with boy_33
+10/04/2017 07:37:06 AM root   INFO: girl_26committed with boy_31
+10/04/2017 07:37:06 AM root   INFO: girl_27committed with boy_18
+10/04/2017 07:37:06 AM root   INFO: girl_28committed with boy_38
+10/04/2017 07:37:06 AM root   INFO: girl_29committed with boy_20
+10/04/2017 07:37:06 AM root   INFO: girl_30committed with boy_22
+10/04/2017 07:37:06 AM root   INFO: girl_34committed with boy_23
+10/04/2017 07:37:06 AM root   INFO: girl_35committed with boy_42
+10/04/2017 07:37:06 AM root   INFO: girl_36committed with boy_43
+10/04/2017 07:37:06 AM root   INFO: girl_37committed with boy_30
+10/04/2017 07:37:06 AM root   INFO: girl_40committed with boy_49
+10/04/2017 07:37:06 AM root   INFO: girl_45committed with boy_32
+10/04/2017 07:37:06 AM root   INFO: girl_46committed with boy_44
+10/04/2017 07:37:06 AM root   INFO: girl_47committed with boy_53
+10/04/2017 07:37:06 AM root   INFO: girl_48committed with boy_10
+10/04/2017 07:37:06 AM root   INFO: boy_16  gave  girl_1 a  Gift:| Gift_32| of price =Rs. 2167\-.
+10/04/2017 07:37:06 AM root   INFO: boy_0  gave  girl_2 a  Gift:| Gift_46| of price =Rs. 1914\-.
+10/04/2017 07:37:06 AM root   INFO: boy_5  gave  girl_4 a  Gift:| Gift_37| of price =Rs. 1102\-.
+10/04/2017 07:37:06 AM root   INFO: boy_3  gave  girl_7 a  Gift:| Gift_13| of price =Rs. 78\-.
+10/04/2017 07:37:06 AM root   INFO: boy_11  gave  girl_10 a  Gift:| Gift_46| of price =Rs. 1914\-.
+10/04/2017 07:37:06 AM root   INFO: boy_17  gave  girl_17 a  Gift:| Gift_46| of price =Rs. 1914\-.
+10/04/2017 07:37:06 AM root   INFO: boy_19  gave  girl_18 a  Gift:| Gift_37| of price =Rs. 1102\-.
+10/04/2017 07:37:06 AM root   INFO: boy_15  gave  girl_22 a  Gift:| Gift_0| of price =Rs. 584\-.
+10/04/2017 07:37:06 AM root   INFO: boy_18  gave  girl_27 a  Gift:| Gift_13| of price =Rs. 78\-.
+10/04/2017 07:37:06 AM root   INFO: boy_18  gave  girl_27 a  Gift:| Gift_41| of price =Rs. 89\-.
+10/04/2017 07:37:06 AM root   INFO: boy_20  gave  girl_29 a  Gift:| Gift_37| of price =Rs. 1102\-.
+10/04/2017 07:37:06 AM root   INFO: boy_22  gave  girl_30 a  Gift:| Gift_37| of price =Rs. 1102\-.
+10/04/2017 07:37:06 AM root   INFO: boy_23  gave  girl_34 a  Gift:| Gift_37| of price =Rs. 1102\-.
+10/04/2017 07:37:06 AM root   INFO: boy_43  gave  girl_36 a  Gift:| Gift_32| of price =Rs. 2167\-.
+10/04/2017 07:37:06 AM root   INFO: boy_30  gave  girl_37 a  Gift:| Gift_37| of price =Rs. 1102\-.
+10/04/2017 07:37:06 AM root   INFO: boy_49  gave  girl_40 a  Gift:| Gift_24| of price =Rs. 2225\-.
+10/04/2017 07:37:06 AM root   INFO: boy_44  gave  girl_46 a  Gift:| Gift_46| of price =Rs. 1914\-.
+10/04/2017 07:37:06 AM root   INFO: boy_10  gave  girl_48 a  Gift:| Gift_13| of price =Rs. 78\-.
+10/04/2017 07:37:06 AM root   INFO: boy_10  gave  girl_48 a  Gift:| Gift_41| of price =Rs. 89\-.
+10/04/2017 07:37:06 AM root   WARNING: new search for bf:
+
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_35  is checking out  Boy: boy_0
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_35  is checking out  Boy: boy_3
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_35  is checking out  Boy: boy_5
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_35  is checking out  Boy: boy_6
+10/04/2017 07:37:06 AM root   INFO: girl_35 committed with boy_6
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_12  is checking out  Boy: boy_0
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_12  is checking out  Boy: boy_3
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_12  is checking out  Boy: boy_5
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_12  is checking out  Boy: boy_6
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_12  is checking out  Boy: boy_7
+10/04/2017 07:37:06 AM root   INFO: girl_12 committed with boy_7
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_37  is checking out  Boy: boy_0
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_37  is checking out  Boy: boy_3
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_37  is checking out  Boy: boy_5
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_37  is checking out  Boy: boy_6
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_37  is checking out  Boy: boy_7
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_37  is checking out  Boy: boy_9
+10/04/2017 07:37:06 AM root   INFO: girl_37 committed with boy_9
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_4  is checking out  Boy: boy_0
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_4  is checking out  Boy: boy_3
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_4  is checking out  Boy: boy_5
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_4  is checking out  Boy: boy_6
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_4  is checking out  Boy: boy_7
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_4  is checking out  Boy: boy_9
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_4  is checking out  Boy: boy_10
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_4  is checking out  Boy: boy_11
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_4  is checking out  Boy: boy_12
+10/04/2017 07:37:06 AM root   INFO: girl_4 committed with boy_12
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_10  is checking out  Boy: boy_0
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_10  is checking out  Boy: boy_3
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_10  is checking out  Boy: boy_5
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_10  is checking out  Boy: boy_6
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_10  is checking out  Boy: boy_7
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_10  is checking out  Boy: boy_9
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_10  is checking out  Boy: boy_10
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_10  is checking out  Boy: boy_11
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_10  is checking out  Boy: boy_12
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_10  is checking out  Boy: boy_13
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_10  is checking out  Boy: boy_15
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_10  is checking out  Boy: boy_16
+10/04/2017 07:37:06 AM root   INFO: girl_10 committed with boy_16
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_18  is checking out  Boy: boy_0
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_18  is checking out  Boy: boy_3
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_18  is checking out  Boy: boy_5
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_18  is checking out  Boy: boy_6
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_18  is checking out  Boy: boy_7
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_18  is checking out  Boy: boy_9
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_18  is checking out  Boy: boy_10
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_18  is checking out  Boy: boy_11
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_18  is checking out  Boy: boy_12
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_18  is checking out  Boy: boy_13
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_18  is checking out  Boy: boy_15
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_18  is checking out  Boy: boy_16
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_18  is checking out  Boy: boy_17
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_18  is checking out  Boy: boy_18
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_18  is checking out  Boy: boy_19
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_18  is checking out  Boy: boy_20
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_18  is checking out  Boy: boy_21
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_18  is checking out  Boy: boy_22
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_18  is checking out  Boy: boy_23
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_18  is checking out  Boy: boy_25
+10/04/2017 07:37:06 AM root   INFO: girl_18 committed with boy_25
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_0
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_3
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_5
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_6
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_7
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_9
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_10
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_11
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_12
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_13
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_15
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_16
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_17
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_18
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_19
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_20
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_21
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_22
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_23
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_25
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_27
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_28
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_30
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_31
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_32
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_26  is checking out  Boy: boy_33
+10/04/2017 07:37:06 AM root   INFO: girl_26 committed with boy_33
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_9  is checking out  Boy: boy_0
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_9  is checking out  Boy: boy_3
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_9  is checking out  Boy: boy_5
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_9  is checking out  Boy: boy_6
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_9  is checking out  Boy: boy_7
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_9  is checking out  Boy: boy_9
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_9  is checking out  Boy: boy_10
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_9  is checking out  Boy: boy_11
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_9  is checking out  Boy: boy_12
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_9  is checking out  Boy: boy_13
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_9  is checking out  Boy: boy_15
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_9  is checking out  Boy: boy_16
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_9  is checking out  Boy: boy_17
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_9  is checking out  Boy: boy_18
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_9  is checking out  Boy: boy_19
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_9  is checking out  Boy: boy_20
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_9  is checking out  Boy: boy_21
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_9  is checking out  Boy: boy_22
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_9  is checking out  Boy: boy_23
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_9  is checking out  Boy: boy_25
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_9  is checking out  Boy: boy_27
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_9  is checking out  Boy: boy_28
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_9  is checking out  Boy: boy_30
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_9  is checking out  Boy: boy_31
+10/04/2017 07:37:06 AM root   INFO: girl_9 committed with boy_31
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_0
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_3
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_5
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_6
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_7
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_9
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_10
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_11
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_12
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_13
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_15
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_16
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_17
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_18
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_19
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_20
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_21
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_22
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_23
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_25
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_27
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_28
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_30
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_31
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_32
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_33
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_34
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_35
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_37
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_38
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_40
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_42
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_43
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_44
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_49
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_51
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_52
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_1  is checking out  Boy: boy_53
+10/04/2017 07:37:06 AM root   INFO: girl_1 committed with boy_53
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_0
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_3
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_5
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_6
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_7
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_9
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_10
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_11
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_12
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_13
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_15
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_16
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_17
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_18
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_19
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_20
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_21
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_22
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_23
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_25
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_27
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_28
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_30
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_31
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_32
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_33
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_34
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_35
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_37
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_38
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_40
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_28  is checking out  Boy: boy_42
+10/04/2017 07:37:06 AM root   INFO: girl_28 committed with boy_42
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_8  is checking out  Boy: boy_0
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_8  is checking out  Boy: boy_3
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_8  is checking out  Boy: boy_5
+10/04/2017 07:37:06 AM root   INFO: girl_8 committed with boy_5
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_0
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_3
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_5
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_6
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_7
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_9
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_10
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_11
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_12
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_13
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_15
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_16
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_17
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_18
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_19
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_20
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_21
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_22
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_23
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_25
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_27
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_28
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_30
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_31
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_32
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_33
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_34
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_35
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_37
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_5  is checking out  Boy: boy_38
+10/04/2017 07:37:06 AM root   INFO: girl_5 committed with boy_38
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_7  is checking out  Boy: boy_0
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_7  is checking out  Boy: boy_3
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_7  is checking out  Boy: boy_5
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_7  is checking out  Boy: boy_6
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_7  is checking out  Boy: boy_7
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_7  is checking out  Boy: boy_9
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_7  is checking out  Boy: boy_10
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_7  is checking out  Boy: boy_11
+10/04/2017 07:37:06 AM root   INFO: girl_7 committed with boy_11
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_0
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_3
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_5
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_6
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_7
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_9
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_10
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_11
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_12
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_13
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_15
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_16
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_17
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_18
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_19
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_20
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_21
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_22
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_23
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_25
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_27
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_28
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_30
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_31
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_32
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_33
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_34
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_35
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_37
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_38
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_40
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_42
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_43
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_44
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_49
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_21  is checking out  Boy: boy_51
+10/04/2017 07:37:06 AM root   INFO: girl_21 committed with boy_51
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_0
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_3
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_5
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_6
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_7
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_9
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_10
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_11
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_12
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_13
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_15
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_16
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_17
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_18
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_19
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_20
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_21
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_22
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_23
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_25
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_27
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_28
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_30
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_31
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_32
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_33
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_34
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_35
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_37
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_38
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_40
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_42
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_43
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_44
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_49
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_51
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_52
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_53
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_47  is checking out  Boy: boy_54
+10/04/2017 07:37:06 AM root   INFO: girl_47 committed with boy_54
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_0
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_3
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_5
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_6
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_7
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_9
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_10
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_11
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_12
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_13
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_15
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_16
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_17
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_18
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_19
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_20
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_21
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_22
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_23
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_25
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_27
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_28
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_30
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_31
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_32
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_33
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_34
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_35
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_37
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_38
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_40
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_42
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_43
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_44
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_49
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_51
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_52
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_53
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_54
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_56
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_17  is checking out  Boy: boy_57
+10/04/2017 07:37:06 AM root   INFO: girl_17 committed with boy_57
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_48  is checking out  Boy: boy_0
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_48  is checking out  Boy: boy_3
+10/04/2017 07:37:06 AM root   INFO: girl_48 committed with boy_3
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_0
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_3
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_5
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_6
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_7
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_9
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_10
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_11
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_12
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_13
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_15
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_16
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_17
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_18
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_19
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_20
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_21
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_22
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_23
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_25
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_27
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_28
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_30
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_31
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_32
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_33
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_45  is checking out  Boy: boy_34
+10/04/2017 07:37:06 AM root   INFO: girl_45 committed with boy_34
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_0
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_3
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_5
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_6
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_7
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_9
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_10
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_11
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_12
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_13
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_15
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_16
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_17
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_18
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_19
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_20
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_21
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_22
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_23
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_25
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_27
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_28
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_30
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_31
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_32
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_33
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_34
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_35
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_37
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_38
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_40
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_42
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_43
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_44
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_49
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_51
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_52
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_53
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_54
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_56
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_57
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_58
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_59
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_60
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_25  is checking out  Boy: boy_62
+10/04/2017 07:37:06 AM root   INFO: girl_25 committed with boy_62
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_0
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_3
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_5
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_6
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_7
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_9
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_10
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_11
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_12
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_13
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_15
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_16
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_17
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_18
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_19
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_20
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_21
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_22
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_23
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_25
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_27
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_28
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_30
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_31
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_32
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_33
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_34
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_35
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_37
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_38
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_40
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_42
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_43
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_44
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_49
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_51
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_46  is checking out  Boy: boy_52
+10/04/2017 07:37:06 AM root   INFO: girl_46 committed with boy_52
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_29  is checking out  Boy: boy_0
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_29  is checking out  Boy: boy_3
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_29  is checking out  Boy: boy_5
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_29  is checking out  Boy: boy_6
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_29  is checking out  Boy: boy_7
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_29  is checking out  Boy: boy_9
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_29  is checking out  Boy: boy_10
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_29  is checking out  Boy: boy_11
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_29  is checking out  Boy: boy_12
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_29  is checking out  Boy: boy_13
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_29  is checking out  Boy: boy_15
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_29  is checking out  Boy: boy_16
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_29  is checking out  Boy: boy_17
+10/04/2017 07:37:06 AM root   INFO: girl_29 committed with boy_17
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_0
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_3
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_5
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_6
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_7
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_9
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_10
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_11
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_12
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_13
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_15
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_16
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_17
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_18
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_19
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_20
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_21
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_22
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_23
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_25
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_27
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_28
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_30
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_31
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_32
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_33
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_34
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_35
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_37
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_38
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_40
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_42
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_43
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_44
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_49
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_51
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_52
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_53
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_54
+10/04/2017 07:37:06 AM root   INFO: Commitment:  Girl: girl_36  is checking out  Boy: boy_56
+10/04/2017 07:37:06 AM root   INFO: girl_36 committed with boy_56
