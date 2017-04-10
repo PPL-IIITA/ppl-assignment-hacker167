@@ -1,0 +1,64 @@
+10/04/2017 07:38:58 AM root   INFO: girl_0committed with boy_1
+10/04/2017 07:38:58 AM root   INFO: girl_1committed with boy_5
+10/04/2017 07:38:58 AM root   INFO: girl_5committed with boy_6
+10/04/2017 07:38:58 AM root   INFO: girl_6committed with boy_2
+10/04/2017 07:38:58 AM root   INFO: girl_8committed with boy_8
+10/04/2017 07:38:58 AM root   INFO: girl_9committed with boy_12
+10/04/2017 07:38:58 AM root   INFO: girl_10committed with boy_15
+10/04/2017 07:38:58 AM root   INFO: girl_11committed with boy_16
+10/04/2017 07:38:58 AM root   INFO: girl_12committed with boy_18
+10/04/2017 07:38:58 AM root   INFO: girl_15committed with boy_7
+10/04/2017 07:38:58 AM root   INFO: girl_17committed with boy_20
+10/04/2017 07:38:58 AM root   INFO: girl_19committed with boy_30
+10/04/2017 07:38:58 AM root   INFO: girl_20committed with boy_26
+10/04/2017 07:38:58 AM root   INFO: girl_21committed with boy_32
+10/04/2017 07:38:58 AM root   INFO: girl_22committed with boy_37
+10/04/2017 07:38:58 AM root   INFO: girl_23committed with boy_41
+10/04/2017 07:38:58 AM root   INFO: girl_24committed with boy_10
+10/04/2017 07:38:58 AM root   INFO: girl_27committed with boy_43
+10/04/2017 07:38:58 AM root   INFO: girl_29committed with boy_35
+10/04/2017 07:38:58 AM root   INFO: girl_30committed with boy_44
+10/04/2017 07:38:58 AM root   INFO: girl_31committed with boy_40
+10/04/2017 07:38:58 AM root   INFO: girl_32committed with boy_38
+10/04/2017 07:38:58 AM root   INFO: girl_33committed with boy_14
+10/04/2017 07:38:58 AM root   INFO: girl_34committed with boy_46
+10/04/2017 07:38:58 AM root   INFO: girl_36committed with boy_61
+10/04/2017 07:38:58 AM root   INFO: girl_37committed with boy_39
+10/04/2017 07:38:58 AM root   INFO: girl_38committed with boy_34
+10/04/2017 07:38:58 AM root   INFO: girl_40committed with boy_66
+10/04/2017 07:38:58 AM root   INFO: girl_42committed with boy_42
+10/04/2017 07:38:58 AM root   INFO: girl_45committed with boy_67
+10/04/2017 07:38:58 AM root   INFO: girl_46committed with boy_76
+10/04/2017 07:38:58 AM root   INFO: girl_47committed with boy_51
+10/04/2017 07:38:58 AM root   INFO: girl_49committed with boy_52
+10/04/2017 07:38:58 AM root   WARNING: Gift transfer:
+
+10/04/2017 07:38:58 AM root   INFO: boy_1  gave  girl_0 a  Gift:| Gift_37| of price =Rs. 1713\-.
+10/04/2017 07:38:58 AM root   INFO: boy_5  gave  girl_1 a  Gift:| Gift_25| of price =Rs. 2205\-.
+10/04/2017 07:38:58 AM root   INFO: boy_6  gave  girl_5 a  Gift:| Gift_26| of price =Rs. 1289\-.
+10/04/2017 07:38:58 AM root   INFO: boy_2  gave  girl_6 a  Gift:| Gift_15| of price =Rs. 556\-.
+10/04/2017 07:38:58 AM root   INFO: boy_8  gave  girl_8 a  Gift:| Gift_43| of price =Rs. 1919\-.
+10/04/2017 07:38:58 AM root   INFO: boy_12  gave  girl_9 a  Gift:| Gift_37| of price =Rs. 1713\-.
+10/04/2017 07:38:58 AM root   INFO: boy_16  gave  girl_11 a  Gift:| Gift_25| of price =Rs. 2205\-.
+10/04/2017 07:38:58 AM root   INFO: boy_18  gave  girl_12 a  Gift:| Gift_18| of price =Rs. 2453\-.
+10/04/2017 07:38:58 AM root   INFO: boy_7  gave  girl_15 a  Gift:| Gift_1| of price =Rs. 867\-.
+10/04/2017 07:38:58 AM root   INFO: boy_20  gave  girl_17 a  Gift:| Gift_10| of price =Rs. 1388\-.
+10/04/2017 07:38:58 AM root   INFO: boy_30  gave  girl_19 a  Gift:| Gift_25| of price =Rs. 2205\-.
+10/04/2017 07:38:58 AM root   INFO: boy_26  gave  girl_20 a  Gift:| Gift_26| of price =Rs. 1289\-.
+10/04/2017 07:38:58 AM root   INFO: boy_32  gave  girl_21 a  Gift:| Gift_49| of price =Rs. 1457\-.
+10/04/2017 07:38:58 AM root   INFO: boy_41  gave  girl_23 a  Gift:| Gift_43| of price =Rs. 1919\-.
+10/04/2017 07:38:58 AM root   INFO: boy_10  gave  girl_24 a  Gift:| Gift_44| of price =Rs. 342\-.
+10/04/2017 07:38:58 AM root   INFO: boy_35  gave  girl_29 a  Gift:| Gift_45| of price =Rs. 1008\-.
+10/04/2017 07:38:58 AM root   INFO: boy_44  gave  girl_30 a  Gift:| Gift_32| of price =Rs. 2429\-.
+10/04/2017 07:38:58 AM root   INFO: boy_40  gave  girl_31 a  Gift:| Gift_45| of price =Rs. 1008\-.
+10/04/2017 07:38:58 AM root   INFO: boy_38  gave  girl_32 a  Gift:| Gift_44| of price =Rs. 342\-.
+10/04/2017 07:38:58 AM root   INFO: boy_14  gave  girl_33 a  Gift:| Gift_44| of price =Rs. 342\-.
+10/04/2017 07:38:58 AM root   INFO: boy_46  gave  girl_34 a  Gift:| Gift_37| of price =Rs. 1713\-.
+10/04/2017 07:38:58 AM root   INFO: boy_61  gave  girl_36 a  Gift:| Gift_49| of price =Rs. 1457\-.
+10/04/2017 07:38:58 AM root   INFO: boy_39  gave  girl_37 a  Gift:| Gift_15| of price =Rs. 556\-.
+10/04/2017 07:38:58 AM root   INFO: boy_34  gave  girl_38 a  Gift:| Gift_44| of price =Rs. 342\-.
+10/04/2017 07:38:58 AM root   INFO: boy_66  gave  girl_40 a  Gift:| Gift_37| of price =Rs. 1713\-.
+10/04/2017 07:38:58 AM root   INFO: boy_42  gave  girl_42 a  Gift:| Gift_11| of price =Rs. 785\-.
+10/04/2017 07:38:58 AM root   INFO: boy_67  gave  girl_45 a  Gift:| Gift_39| of price =Rs. 1936\-.
+10/04/2017 07:38:58 AM root   INFO: boy_51  gave  girl_47 a  Gift:| Gift_45| of price =Rs. 1008\-.
+10/04/2017 07:38:58 AM root   INFO: boy_52  gave  girl_49 a  Gift:| Gift_15| of price =Rs. 556\-.
